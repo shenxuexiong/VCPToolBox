@@ -176,3 +176,11 @@ image/fluxgen/
 .DS_Store?
 /.obsidian
 Plugin/MIDITranslator/config.env
+
+# RAGDiaryPlugin cache files
+Plugin/RAGDiaryPlugin/semantic_vectors/
+Plugin/RAGDiaryPlugin/meta_chain_vector_cache.json
+Plugin/RAGDiaryPlugin/vector_cache.json
+
+# Other runtime cache
+cacert.pem
